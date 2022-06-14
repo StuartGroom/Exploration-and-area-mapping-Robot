@@ -1,0 +1,2 @@
+# Exploration-and-area-mapping-Robot
+Given a partially completed Webots project, the assignment was to extend the controller to navigate around the arena, so that a map can be generated for that arena. The project already included code for the Occupancy Grid, as well as a display that visualises the position of the robot and the occupancy grid map. Task: navigation and kinematic code to explore the entire arena and build up a complete mapping 
